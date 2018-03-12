@@ -1,0 +1,14 @@
+{
+  "name": "ng-oauth2",
+  "version": "1.0.0",
+  "description": "OAuth2 component for AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "litzrsh <litzrsh@gmail.com>",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
