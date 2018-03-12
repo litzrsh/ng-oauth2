@@ -1,7 +1,7 @@
 {
   "name": "ng-oauth2",
   "description": "OAuth2 component for AngularJS",
-  "main": "index.js",
+  "main": "ng-oauth2.js",
   "authors": [
     "litzrsh <litzrsh@gmail.com>"
   ],
